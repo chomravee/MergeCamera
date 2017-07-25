@@ -1,0 +1,7 @@
+E:\Xarmarin\Cogs-master\LiveCam\Microsoft.ProjectOxford.Face\bin\Release\Microsoft.ProjectOxford.Face.dll
+E:\Xarmarin\Cogs-master\LiveCam\Microsoft.ProjectOxford.Face\bin\Release\Microsoft.ProjectOxford.Face.pdb
+E:\Xarmarin\Cogs-master\LiveCam\Microsoft.ProjectOxford.Face\bin\Release\Newtonsoft.Json.dll
+E:\Xarmarin\Cogs-master\LiveCam\Microsoft.ProjectOxford.Face\bin\Release\Newtonsoft.Json.xml
+E:\Xarmarin\Cogs-master\LiveCam\Microsoft.ProjectOxford.Face\obj\Release\Microsoft.ProjectOxford.Face.csprojResolveAssemblyReference.cache
+E:\Xarmarin\Cogs-master\LiveCam\Microsoft.ProjectOxford.Face\obj\Release\Microsoft.ProjectOxford.Face.dll
+E:\Xarmarin\Cogs-master\LiveCam\Microsoft.ProjectOxford.Face\obj\Release\Microsoft.ProjectOxford.Face.pdb
